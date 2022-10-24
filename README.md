@@ -1,11 +1,12 @@
-# Django Core
+# [Django Dynamic API](https://github.com/app-generator/django-dynamic-api) `Sample`
 
 Minimal **Django** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
-> Features: 
+> Features - see **[video](https://www.youtube.com/watch?v=nPQMUafTrNY)** presentation
 
 - ✅ `Up-to-date Dependencies`
 - ✅ `Docker`
+- ✅ Integrates [Dynamic API Library](https://github.com/app-generator/django-dynamic-api) Library for Django
 
 <br />
 
@@ -14,8 +15,8 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
-$ git clone https://github.com/app-generator/core-django.git
-$ cd core-django
+$ git clone https://github.com/app-generator/core-django-dyn-api.git
+$ cd core-django-dyn-api
 ```
 
 <br />
@@ -35,8 +36,8 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/core-django.git
-$ cd core-django
+$ git clone https://github.com/app-generator/core-django-dyn-api.git
+$ cd core-django-dyn-api
 ```
 
 <br />
@@ -70,5 +71,9 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 <br />
 
+![Django Dynamic API - DRF Interface (open-source tool).](https://user-images.githubusercontent.com/51070104/197497608-8c739370-e7e1-4144-a070-25d51c5a6067.jpg) 
+
+<br />
+
 ---
-**Django Core** - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+[Django Dynamic API](https://github.com/app-generator/django-dynamic-api) `Sample` - Minimal **Django** starter provided by **[AppSeed](https://appseed.us/)**
